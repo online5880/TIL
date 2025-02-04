@@ -1,7 +1,7 @@
-## Today I Learned (2025-01-01)
+## Today I Learned (2025-02-01)
 ---
 > ## 목차
-- [Today I Learned (2025-01-01)](#today-i-learned-2025-01-01)
+- [Today I Learned (2025-02-01)](#today-i-learned-2025-02-01)
 - [오늘 공부한 내용](#오늘-공부한-내용)
   - [1.](#1)
 - [어려웠던 내용](#어려웠던-내용)
